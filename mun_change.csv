@@ -1,0 +1,915 @@
+Name,Canton[3],Fate,Resulting municipality,Year
+Feschel,Valais,Merged with Guttet,Guttet-Feschel,2000
+Kleingurmels,Fribourg,Incorporated into Gurmels,Gurmels,2000
+Corsalettes,Fribourg,Incorporated into Grolley,Grolley,2000
+Selkingen,Valais,Merged with Biel and Ritzingen,Grafschaft,2000
+Guttet,Valais,Merged with Feschel,Guttet-Feschel,2000
+Montagny-la-Ville,Fribourg,Merged with Montagny-les-Monts,Montagny,2000
+Montagny-les-Monts,Fribourg,Merged with Montagny-la-Ville,Montagny,2000
+Willisdorf,Thurgau,Incorporated into Diessenhofen,Diessenhofen,2000
+Biel,Valais,Merged with Ritzingen and Selkingen,Grafschaft,2000
+Ritzingen,Valais,Merged with Biel and Selkingen,Grafschaft,2000
+Berzona,Ticino,Merged with Auressio and Loco,Isorno,2001
+Corjolens,Fribourg,Merged with Avry-sur-Matran,Avry,2001
+Vaglio,Ticino,"Merged with Cagiallo, Lopagno, Roveredo, Sala Capriasca and Tesserete",Capriasca,2001
+Vauderens,Fribourg,Incorporated into Ursy,Ursy,2001
+Villargiroud,Fribourg,"Merged with Chavannes-sous-Orsonnens, Orsonnens and Villarsiviriaux",Villorsonnens,2001
+Maules,Fribourg,Incorporated into Sâles,Sâles,2001
+Rueyres-Treyfayes,Fribourg,Incorporated into Sâles,Sâles,2001
+Romanens,Fribourg,Incorporated into Sâles,Sâles,2001
+Ecuvillens,Fribourg,Merged with Posieux,Hauterive,2001
+Loco,Ticino,Merged with Auressio and Berzona,Isorno,2001
+Mossel,Fribourg,Incorporated into Ursy,Ursy,2001
+Lopagno,Ticino,"Merged with Cagiallo, Roveredo, Sala Capriasca, Tesserete and Vaglio",Capriasca,2001
+Orsonnens,Fribourg,"Merged with Chavannes-sous-Orsonnens, Villargiroud and Villarsiviriaux",Villorsonnens,2001
+Villarsiviriaux,Fribourg,"Merged with Chavannes-sous-Orsonnens, Orsonnens and Villargiroud",Villorsonnens,2001
+Onnens,Fribourg,Merged with Lentigny and Lovens,La Brillaz,2001
+Auressio,Ticino,Merged with Berzona and Loco,Isorno,2001
+Posieux,Fribourg,Merged with Ecuvillens,Hauterive,2001
+Chavannes-sous-Orsonnens,Fribourg,"Merged with Orsonnens, Villargiroud and Villarsiviriaux",Villorsonnens,2001
+Avry-sur-Matran,Fribourg,Merged with Corjolens,Avry,2001
+Roveredo,Ticino,"Merged with Cagiallo, Lopagno, Sala Capriasca, Tesserete and Vaglio",Capriasca,2001
+Lentigny,Fribourg,Merged with Onnens and Lovens,La Brillaz,2001
+Promasens,Fribourg,Incorporated into Rue,Rue,2001
+Gillarens,Fribourg,Incorporated into Rue,Rue,2001
+Vuippens,Fribourg,Incorporated into Marsens,Marsens,2001
+Lovens,Fribourg,Merged with Onnens and Lentigny,La Brillaz,2001
+Sala Capriasca,Ticino,"Merged with Cagiallo, Lopagno, Roveredo, Tesserete and Vaglio",Capriasca,2001
+Tesserete,Ticino,"Merged with Cagiallo, Lopagno, Roveredo, Sala Capriasca and Vaglio",Capriasca,2001
+Bionnens,Fribourg,Incorporated into Ursy,Ursy,2001
+Cagiallo,Ticino,"Merged with Lopagno, Roveredo, Sala Capriasca, Tesserete and Vaglio",Capriasca,2001
+Surcasti,Grisons,"Merged with Camuns, Tersnaus and Uors-Peiden",Suraua,2002
+Tersnaus,Grisons,"Merged with Camuns, Surcasti and Uors-Peiden",Suraua,2002
+Champmartin,Vaud,Incorporated into Cudrefin,Cudrefin,2002
+Mühlethal,Aargau,Incorporated into Zofingen,Zofingen,2002
+Neirivue,Fribourg,"Merged with Albeuve, Lessoc and Montbovon",Haut-Intyamon,2002
+Lessoc,Fribourg,"Merged with Albeuve, Montbovon and Neirivue",Haut-Intyamon,2002
+Uors-Peiden,Grisons,"Merged with Camuns, Surcasti and Tersnaus",Suraua,2002
+Camuns,Grisons,"Merged with Surcasti, Tersnaus and Uors-Peiden",Suraua,2002
+Albeuve,Fribourg,"Merged with Lessoc, Montbovon and Neirivue",Haut-Intyamon,2002
+Montbovon,Fribourg,"Merged with Albeuve, Lessoc and Neirivue",Haut-Intyamon,2002
+La Magne,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+Liebistorf,Fribourg,Incorporated into Gurmels,Gurmels,2003
+Zénauva,Fribourg,"Merged with Bonnefontaine, Essert, Montévraz, Oberried and Praroman",Le Mouret,2003
+Wallenbuch,Fribourg,Incorporated into Gurmels,Gurmels,2003
+Le Bry,Fribourg,Merged with Avry-devant-Pont and Gumefens,Pont-en-Ogoz,2003
+Villarlod,Fribourg,"Merged with Estavayer-le-Gibloux, Rueyres-Saint-Laurent and Villarsel-le-Gibloux",Le Glèbe,2003
+Lieffrens,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+Praroman,Fribourg,"Merged with Bonnefontaine, Essert, Montévraz, Oberried and Zénauva",Le Mouret,2003
+Courtaman,Fribourg,Incorporated into Courtepin,Courtepin,2003
+Sommentier,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+Oberried,Fribourg,"Merged with Bonnefontaine, Essert, Montévraz, Praroman and Zénauva",Le Mouret,2003
+Estavayer-le-Gibloux,Fribourg,"Merged with Rueyres-Saint-Laurent, Villarlod and Villarsel-le-Gibloux",Le Glèbe,2003
+Ried-Mörel,Valais,Merged with Goppisberg and Greich,Riederalp,2003
+Goppisberg,Valais,Merged with Greich and Ried-Mörel,Riederalp,2003
+Avry-devant-Pont,Fribourg,Merged with Gumefens and Le Bry,Pont-en-Ogoz,2003
+Villariaz,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+Essert,Fribourg,"Merged with Bonnefontaine, Montévraz, Oberried, Praroman and Zénauva",Le Mouret,2003
+Montévraz,Fribourg,"Merged with Bonnefontaine, Essert, Montévraz, Praroman and Zénauva",Le Mouret,2003
+Les Ecasseys,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+Greich,Valais,Merged with Goppisberg and Ried-Mörel,Riederalp,2003
+La Joux,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+La Rogivue,Vaud,Incorporated into Maracon,Maracon,2003
+Bonnefontaine,Fribourg,"Merged with Essert, Montévraz, Oberried, Praroman and Zénauva",Le Mouret,2003
+Villarsel-le-Gibloux,Fribourg,"Merged with Estavayer-le-Gibloux, Rueyres-Saint-Laurent and Villarlod",Le Glèbe,2003
+Gumefens,Fribourg,Merged with Avry-devant-Pont and Le Bry,Pont-en-Ogoz,2003
+Patzen-Fardün,Grisons,Merged with Donath,Donat,2003
+Rueyres-Saint-Laurent,Fribourg,"Merged with Estavayer-le-Gibloux, Villarlod and Villarsel-le-Gibloux",Le Glèbe,2003
+Guschelmuth,Fribourg,Incorporated into Gurmels,Gurmels,2003
+Donath,Grisons,Merged with Patzen-Fardün,Donat,2003
+Estévenens,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2003
+Cimo,Ticino,Incorporated into Bioggio,Bioggio,2004
+Englisberg,Bern,Merged with Zimmerwald,Wald,2004
+Enney,Fribourg,Merged with Estavannens and Villars-sous-Mont,Bas-Intyamon,2004
+La Neirigue,Fribourg,Incorporated into Vuisternens-devant-Romont,Vuisternens-devant-Romont,2004
+Ausserbinn,Valais,Incorporated into Ernen,Ernen,2004
+Niederwichtrach,Bern,Merged with Oberwichtrach,Wichtrach,2004
+Zimmerwald,Bern,Merged with Englisberg,Wald,2004
+Cureggia,Ticino,Incorporated into Lugano,Lugano,2004
+Salorino,Ticino,Incorporated into Mendrisio,Mendrisio,2004
+La Corbaz,Fribourg,Merged with Cormagens and Lossy-Formangueires,La Sonnaz,2004
+Agra,Ticino,Merged with Gentilino and Montagnola,Collina d'Oro,2004
+Corzoneso,Ticino,"Merged with Castro, Dongio, Largario, Leontica, Lottigna, Marolta, Ponto Valentino and Prugiasco",Acquarossa,2004
+Mühlebach,Valais,Incorporated into Ernen,Ernen,2004
+Davesco-Soragno,Ticino,Incorporated into Lugano,Lugano,2004
+Cormagens,Fribourg,Merged with La Corbaz and Lossy-Formangueires,La Sonnaz,2004
+Dongio,Ticino,"Merged with Castro, Corzoneso, Largario, Leontica, Lottigna, Marolta, Ponto Valentino and Prugiasco",Acquarossa,2004
+Schwarzenbach,Lucerne,Incorporated into Beromünster,Beromünster,2004
+Menzonio,Ticino,"Merged with Broglio, Brontallo, Fusio, Peccia and Prato-Sornico",Lavizzara,2004
+Aumont,Fribourg,"Merged with Frasses, Granges-de-Vesin and Montet",Les Montets,2004
+Coglio,Ticino,Incorporated into Maggia,Maggia,2004
+Aurigeno,Ticino,Incorporated into Maggia,Maggia,2004
+Diesbach,Glarus,Incorporated into Luchsingen,Luchsingen,2004
+Lodano,Ticino,Incorporated into Maggia,Maggia,2004
+Gandria,Ticino,Incorporated into Lugano,Lugano,2004
+Marolta,Ticino,"Merged with Castro, Corzoneso, Dongio, Largario, Leontica, Lottigna, Ponto Valentino and Prugiasco",Acquarossa,2004
+Granges-de-Vesin,Fribourg,"Merged with Aumont, Frasses and Montet",Les Montets,2004
+Bouloz,Fribourg,"Merged with Pont, Veveyse and Porsel",Le Flon,2004
+Montet,Fribourg,"Merged with Aumont, Frasses and Granges-de-Vesin",Les Montets,2004
+Pazzallo,Ticino,Incorporated into Lugano,Lugano,2004
+Peccia,Ticino,"Merged with Broglio, Brontallo, Fusio, Menzonio and Prato-Sornico",Lavizzara,2004
+Breganzona,Ticino,Incorporated into Lugano,Lugano,2004
+Broglio,Ticino,"Merged with Brontallo, Fusio, Menzonio, Peccia and Prato-Sornico",Lavizzara,2004
+Brontallo,Ticino,"Merged with Broglio, Fusio, Menzonio, Peccia and Prato-Sornico",Lavizzara,2004
+Frasses,Fribourg,"Merged with Aumont, Granges-de-Vesin and Montet",Les Montets,2004
+Torny-le-Grand,Fribourg,Merged with Middes,Torny,2004
+Gluringen,Valais,Merged with Reckingen,Reckingen-Gluringen,2004
+Prugiasco,Ticino,"Merged with Castro, Corzoneso, Dongio, Largario, Leontica, Lottigna, Marolta and Ponto Valentino",Acquarossa,2004
+Fusio,Ticino,"Merged with Broglio, Brontallo, Menzonio, Peccia and Prato-Sornico",Lavizzara,2004
+Giumaglio,Ticino,Incorporated into Maggia,Maggia,2004
+Ponto Valentino,Ticino,"Merged with Castro, Corzoneso, Dongio, Largario, Leontica, Lottigna, Marolta and Prugiasco",Acquarossa,2004
+Porsel,Fribourg,Merged with Bouloz and Pont,Le Flon,2004
+Geschinen,Valais,Merged with Münster,Münster-Geschinen,2004
+Progens,Fribourg,Merged with Grattavache and Le Crêt,La Verrerie,2004
+Prez-vers-Siviriez,Fribourg,Incorporated into Siviriez,Siviriez,2004
+Gentilino,Ticino,Merged with Agra and Montagnola,Collina d'Oro,2004
+Le Crêt,Fribourg,Merged with Grattavache and Progens,La Verrerie,2004
+Pregassona,Ticino,Incorporated into Lugano,Lugano,2004
+Monte,Ticino,Incorporated into Castel San Pietro,Castel San Pietro,2004
+Someo,Ticino,Incorporated into Maggia,Maggia,2004
+Grattavache,Fribourg,Merged with Le Crêt and Progens,La Verrerie,2004
+Bosco Luganese,Ticino,Incorporated into Bioggio,Bioggio,2004
+Reckingen,Valais,Merged with Gluringen,Reckingen-Gluringen,2004
+Barzheim,Schaffhausen,Incorporated into Thayngen,Thayngen,2004
+Middes,Fribourg,Merged with Torny-le-Grand,Torny,2004
+Oberwichtrach,Bern,Merged with Niederwichtrach,Wichtrach,2004
+Leontica,Ticino,"Merged with Castro, Corzoneso, Dongio, Largario, Lottigna, Marolta, Ponto Valentino and Prugiasco",Acquarossa,2004
+Berlens,Fribourg,Incorporated into Mézières,Mézières,2004
+Besencens,Fribourg,Incorporated into Saint-Martin,Saint-Martin,2004
+Chavannes-les-Forts,Fribourg,Incorporated into Siviriez,Siviriez,2004
+Villars-sous-Mont,Fribourg,Merged with Estavannens and Villars-sous-Mont,Bas-Intyamon,2004
+Estavannens,Fribourg,Merged with Estavannens and Villars-sous-Mont,Bas-Intyamon,2004
+Steinhaus,Valais,Incorporated into Ernen,Ernen,2004
+Prato-Sornico,Ticino,"Merged with Broglio, Brontallo, Fusio, Menzonio and Peccia",Lavizzara,2004
+Lossy-Formangueires,Fribourg,Merged with Cormagens and La Corbaz,La Sonnaz,2004
+Pambio-Noranco,Ticino,Incorporated into Lugano,Lugano,2004
+Hätzingen,Glarus,Incorporated into Luchsingen,Luchsingen,2004
+Lottigna,Ticino,"Merged with Castro, Corzoneso, Dongio, Largario, Leontica, Marolta, Ponto Valentino and Prugiasco",Acquarossa,2004
+Münster,Valais,Merged with Geschinen,Münster-Geschinen,2004
+Fiaugères,Fribourg,Incorporated into Saint-Martin,Saint-Martin,2004
+Largario,Ticino,"Merged with Castro, Corzoneso, Dongio, Leontica, Lottigna, Marolta, Ponto Valentino and Prugiasco",Acquarossa,2004
+Castro,Ticino,"Merged with Corzoneso, Dongio, Largario, Leontica, Lottigna, Marolta, Ponto Valentino and Prugiasco",Acquarossa,2004
+Casima,Ticino,Incorporated into Castel San Pietro,Castel San Pietro,2004
+Mannens-Grandsivaz,Fribourg,Incorporated into Montagny,Montagny,2004
+Villaraboud,Fribourg,Incorporated into Siviriez,Siviriez,2004
+Viganello,Ticino,Incorporated into Lugano,Lugano,2004
+Moghegno,Ticino,Incorporated into Maggia,Maggia,2004
+Montagnola,Ticino,Merged with Agra and Gentilino,Collina d'Oro,2004
+Pont,Fribourg,Merged with Bouloz and Porsel,Le Flon,2004
+Mugena,Ticino,"Merged with Arosio, Breno, Fescoggia and Vezio",Alto Malcantone,2005
+Nesslau,St. Gallen,Merged with Krummenau,Nesslau-Krummenau,2005
+Lussy,Fribourg,Merged with Villarimboud,La Folliaz,2005
+Robasacco,Ticino,Incorporated into Cadenazzo,Cadenazzo,2005
+Krummenau,St. Gallen,Merged with Nesslau,Nesslau-Krummenau,2005
+Delley,Fribourg,Merged with Portalban,Delley-Portalban,2005
+Kulmerau,Lucerne,Incorporated into Triengen,Triengen,2005
+Cordast,Fribourg,Incorporated into Gurmels,Gurmels,2005
+Praratoud,Fribourg,Incorporated into Surpierre,Surpierre,2005
+Portalban,Fribourg,Merged with Delley,Delley-Portalban,2005
+Chapelle,Fribourg,Incorporated into Cheiry,Cheiry,2005
+Osterfingen,Schaffhausen,Incorporated into Wilchingen,Wilchingen,2005
+Herlisberg,Lucerne,Incorporated into Römerswil,Römerswil,2005
+Breno,Ticino,"Merged with Arosio, Fescoggia, Mugena and Vezio",Alto Malcantone,2005
+Vesin,Fribourg,Incorporated into Cugy,Cugy,2005
+Vezio,Ticino,"Merged with Arosio, Breno, Fescoggia and Mugena",Alto Malcantone,2005
+Fescoggia,Ticino,"Merged with Arosio, Breno, Mugena and Vezio",Alto Malcantone,2005
+Villarimboud,Fribourg,Merged with Lussy,La Folliaz,2005
+Wilihof,Lucerne,Incorporated into Triengen,Triengen,2005
+Arosio,Ticino,"Merged with Breno, Fescoggia, Mugena and Vezio",Alto Malcantone,2005
+Arrissoules,Vaud,Incorporated into Rovray,Rovray,2005
+Villarbeney,Fribourg,Incorporated into Botterens,Botterens,2006
+Rossens,Vaud,Incorporated into Villarzel,Villarzel,2006
+Rossura,Ticino,Incorporated into Faido,Faido,2006
+Donatyre,Vaud,Incorporated into Avenches,Avenches,2006
+Leuggelbach,Glarus,Incorporated into Haslen,Haslen,2006
+Agriswil,Fribourg,Incorporated into Ried bei Kerzers,Ried bei Kerzers,2006
+Aquila,Ticino,"Merged with Campo Blenio, Ghirone, Olivone and Torre",Blenio,2006
+Willisau Stadt,Lucerne,Merged with Willisau Land,Willisau,2006
+Sédeilles,Vaud,Incorporated into Villarzel,Villarzel,2006
+Seiry,Fribourg,Incorporated into Lully,Lully,2006
+Chiggiogna,Ticino,Incorporated into Faido,Faido,2006
+Willisau Land,Lucerne,Merged with Willisau Stadt,Willisau,2006
+Stilli,Aargau,Incorporated into Villigen,Villigen,2006
+Cavergno,Ticino,Incorporated into Cevio,Cevio,2006
+Campo-Blenio,Ticino,"Merged with Aquila, Ghirone, Olivone and Torre",Blenio,2006
+Torre,Ticino,"Merged with Aquila, Campo Blenio, Ghirone and Olivone",Blenio,2006
+Calonico,Ticino,Incorporated into Faido,Faido,2006
+Esmonts,Fribourg,Incorporated into Vuarmarens,Vuarmarens,2006
+Autavaux,Fribourg,Merged with Forel and Montbrelloz,Vernay,2006
+Uffikon,Lucerne,Incorporated into Dagmersellen,Dagmersellen,2006
+Montbrelloz,Fribourg,Merged with Autavaux and Forel,Vernay,2006
+Unterehrendingen,Aargau,Merged with Oberehrendingen,Ehrendingen,2006
+Bignasco,Ticino,Incorporated into Cevio,Cevio,2006
+Bollion,Fribourg,Incorporated into Lully,Lully,2006
+Buchs,Lucerne,Incorporated into Dagmersellen,Dagmersellen,2006
+Medels im Rheinwald,Grisons,Incorporated into Splügen,Splügen,2006
+Niedererlinsbach,Solothurn,Merged with Obererlinsbach,Erlinsbach,2006
+Forel,Fribourg,Merged with Autavaux and Montbrelloz,Vernay,2006
+Ghirone,Ticino,"Merged with Aquila, Campo Blenio, Olivone and Torre",Blenio,2006
+La Tour-de-Trême,Fribourg,Incorporated into Bulle,Bulle,2006
+Nidfurn,Glarus,Incorporated into Haslen,Haslen,2006
+Olivone,Ticino,"Merged with Aquila, Campo Blenio, Ghirone and Torre",Blenio,2006
+Richenthal,Lucerne,Incorporated into Reiden,Reiden,2006
+Oberehrendingen,Aargau,Merged with Unterehrendingen,Ehrendingen,2006
+Langnau bei Reiden,Lucerne,Incorporated into Reiden,Reiden,2006
+Kottwil,Lucerne,Incorporated into Ettiswil,Ettiswil,2006
+Obererlinsbach,Solothurn,Merged with Niedererlinsbach,Erlinsbach,2006
+St. Antönien Ascharina,Grisons,Incorporated into St. Antönien,St. Antönien,2007
+Jona,St. Gallen,Merged with Rapperswil,Rapperswil-Jona,2007
+Gutenburg,Bern,Incorporated into Madiswil,Madiswil,2007
+Längenbühl,Bern,Merged with Forst,Forst-Längenbühl,2007
+Rapperswil,St. Gallen,Merged with Jona,Rapperswil-Jona,2007
+Forst,Bern,Merged with Längenbühl,Forst-Längenbühl,2007
+Lieli,Lucerne,Incorporated into Hohenrain,Hohenrain,2007
+St. Peter,Grisons,Merged with Pagig,St. Peter-Pagig,2008
+Villa Luganese,Ticino,Incorporated into Lugano,Lugano,2008
+Corticiasca,Ticino,Incorporated into Capriasca,Capriasca,2008
+Steg,Valais,Merged with Hohtenn,Steg-Hohtenn,2008
+Hohtenn,Valais,Merged with Steg,Steg-Hohtenn,2008
+Carabbia,Ticino,Incorporated into Lugano,Lugano,2008
+Lugaggia,Ticino,Incorporated into Capriasca,Capriasca,2008
+Pagig,Grisons,Merged with St. Peter,St. Peter-Pagig,2008
+Gordevio,Ticino,Merged with Avegno,Avegno Gordevio,2008
+Gossens,Vaud,Incorporated into Donneloye,Donneloye,2008
+Oberönz,Bern,Incorporated into Herzogenbuchsee,Herzogenbuchsee,2008
+Avegno,Ticino,Merged with Gordevio,Avegno Gordevio,2008
+Bidogno,Ticino,Incorporated into Capriasca,Capriasca,2008
+Says,Grisons,Incorporated into Trimmis,Trimmis,2008
+Mézery-près-Donneloye,Vaud,Incorporated into Donneloye,Donneloye,2008
+Iseo,Ticino,Incorporated into Bioggio,Bioggio,2008
+Barbengo,Ticino,Incorporated into Lugano,Lugano,2008
+Ausserferrera,Grisons,Merged with Innerferrera,Ferrera,2008
+Innerferrera,Grisons,Merged with Ausserferrera,Ferrera,2008
+Opfertshofen,Schaffhausen,Incorporated into Thayngen,Thayngen,2009
+Winikon,Lucerne,Incorporated into Triengen,Triengen,2009
+Noiraigue,Neuchâtel,"Merged with Boveresse, Buttes, Couvet, Fleurier, Les Bayards, Môtiers, Saint-Sulpice and Travers",Val-de-Travers,2009
+Obergesteln,Valais,Merged with Oberwald and Ulrichen,Obergoms,2009
+Ulrichen,Valais,Merged with Oberwald and Obergesteln,Obergoms,2009
+Tumegl/Tomils,Grisons,"Merged with Feldis/Veulden, Scheid and Trans",Tomils,2009
+Mogelsberg,St. Gallen,Merged with Brunnadern and St. Peterzell,Neckertal,2009
+Ocourt,Jura,"Merged with Epauvillers, Epiquerez, Montenol, Montmelon, Saint-Ursanne and Seleute",Clos du Doubs,2009
+Valchava,Grisons,"Merged with Fuldera, Lü, Müstair, Santa Maria Val Müstair and Tschierv",Val Müstair,2009
+Oberwald,Valais,Merged with Obergesteln and Ulrichen,Obergoms,2009
+Wanzwil,Bern,Incorporated into Heimenhausen,Heimenhausen,2009
+Miécourt,Jura,"Merged with Asuel, Charmoille, Fregiécourt and Pleujouse",La Baroche,2009
+Vissoie,Valais,"Merged with Ayer, Chandolin, Grimentz, Saint-Jean and Saint-Luc",Anniviers,2009
+Wiesen,Grisons,Incorporated into Davos,Davos,2009
+Tschierv,Grisons,"Merged with Fuldera, Lü, Müstair, Santa Maria Val Müstair and Valchava",Val Müstair,2009
+Retschwil,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2009
+Tremona,Ticino,Incorporated into Mendrisio,Mendrisio,2009
+Saint-Ursanne,Jura,"Merged with Epauvillers, Epiquerez, Montenol, Montmelon, Ocourt and Seleute",Clos du Doubs,2009
+Mosen,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2009
+Saint-Sulpice,Neuchâtel,"Merged with Boveresse, Buttes, Couvet, Fleurier, Les Bayards, Môtiers, Noiraigue and Travers",Val-de-Travers,2009
+Môtiers,Neuchâtel,"Merged with Boveresse, Buttes, Couvet, Fleurier, Les Bayards, Noiraigue, Saint-Sulpice and Travers",Val-de-Travers,2009
+Saint-Luc,Valais,"Merged with Ayer, Chandolin, Grimentz, Saint-Jean and Vissoie",Anniviers,2009
+Saint-Jean,Valais,"Merged with Ayer, Chandolin, Grimentz, Saint-Luc and Vissoie",Anniviers,2009
+Santa Maria Val Müstair,Grisons,"Merged with Fuldera, Lü, Müstair, Tschierv and Valchava",Val Müstair,2009
+Muggio,Ticino,"Merged with Bruzella, Cabbio, Caneggio, Morbio Superiore and Sagno",Breggia,2009
+Müswangen,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2009
+Rüti bei Riggisberg,Bern,Incorporated into Riggisberg,Riggisberg,2009
+Röthenbach bei Herzogenbuchsee,Bern,Incorporated into Heimenhausen,Heimenhausen,2009
+Müstair,Grisons,"Merged with Fuldera, Lü, Santa Maria Val Müstair, Tschierv and Valchava",Val Müstair,2009
+Réclère,Jura,"Merged with Chevenez, Damvant and Roche-d'Or",Haute-Ajoie,2009
+Roche-d'Or,Jura,"Merged with Chevenez, Damvant and Réclère",Haute-Ajoie,2009
+Sagno,Ticino,"Merged with Bruzella, Cabbio, Caneggio, Morbio Superiore and Muggio",Breggia,2009
+Scheid,Grisons,"Merged with Feldis/Veulden, Trans and Tumegl/Tomils",Tomils,2009
+Mörel,Valais,Merged with Filet,Mörel-Filet,2009
+Morbio Superiore,Ticino,"Merged with Bruzella, Cabbio, Caneggio, Muggio and Sagno",Breggia,2009
+Travers,Neuchâtel,"Merged with Boveresse, Buttes, Couvet, Fleurier, Les Bayards, Môtiers, Noiraigue and Saint-Sulpice",Val-de-Travers,2009
+Trans,Grisons,"Merged with Feldis/Veulden, Scheid and Tumegl/Tomils",Tomils,2009
+Montenol,Jura,"Merged with Epauvillers, Epiquerez, Montmelon, Ocourt, Saint-Ursanne and Seleute",Clos du Doubs,2009
+Thielle-Wavre,Neuchâtel,Merged with Marin-Epagnier,La Tène,2009
+Montfavergier,Jura,Incorporated into Montfaucon,Montfaucon,2009
+Montignez,Jura,Merged with Buix and Courtemaîche,Basse-Allaine,2009
+Surcuolm,Grisons,Merged with Flond,Mundaun,2009
+Sulz,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2009
+Pignia,Grisons,Incorporated into Andeer,Andeer,2009
+Montmelon,Jura,"Merged with Epauvillers, Epiquerez, Montenol, Ocourt, Saint-Ursanne and Seleute",Clos du Doubs,2009
+St. Peterzell,St. Gallen,Merged with Brunnadern and Mogelsberg,Neckertal,2009
+Pleujouse,Jura,"Merged with Asuel, Charmoille, Frégiecourt and Miécourt",La Baroche,2009
+Seleute,Jura,"Merged with Epauvillers, Epiquerez, Montenol, Montmelon, Ocourt and Saint-Ursanne",Clos du Doubs,2009
+Praden,Grisons,Merged with Tschiertschen,Tschiertschen-Praden,2009
+Rancate,Ticino,Incorporated into Mendrisio,Mendrisio,2009
+Tschiertschen,Grisons,Merged with Praden,Tschiertschen-Praden,2009
+Palagnedra,Ticino,Merged with Borgnone and Intragna,Centovalli,2009
+Lü,Grisons,"Merged with Fuldera, Müstair, Santa Maria Val Müstair, Tschierv and Valchava",Val Müstair,2009
+Le Peuchapatte,Jura,Incorporated into Muriaux,Muriaux,2009
+Gelfingen,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2009
+Gunzwil,Lucerne,Incorporated into Beromünster,Beromünster,2009
+Bibern,Schaffhausen,Incorporated into Thayngen,Thayngen,2009
+Grimentz,Valais,"Merged with Ayer, Chandolin, Saint-Jean, Saint-Luc and Vissoie",Anniviers,2009
+Altdorf,Schaffhausen,Incorporated into Thayngen,Thayngen,2009
+Damvant,Jura,"Merged with Chevenez, Réclère and Roche-d'Or",Haute-Ajoie,2009
+Bratsch,Valais,Merged with Gampel,Gampel-Bratsch,2009
+Epauvillers,Jura,"Merged with Epiquerez, Montenol, Montmelon, Ocourt, Saint-Ursanne and Seleute",Clos du Doubs,2009
+Epiquerez,Jura,"Merged with Epauvillers, Montenol, Montmelon, Ocourt, Saint-Ursanne and Seleute",Clos-du-Doubs,2009
+Goumois,Jura,Incorporated into Saignelégier,Saignelégier,2009
+Boveresse,Neuchâtel,"Merged with Buttes, Couvet, Fleurier, Les Bayards, Môtiers, Noiraigue, Saint-Sulpice and Travers",Val-de-Travers,2009
+Les Pommerats,Jura,Incorporated into Saignelégier,Saignelégier,2009
+Feldis/Veulden,Grisons,"Merged with Scheid, Trans and Tumegl/Tomils",Tomils,2009
+Filet,Valais,Merged with Mörel,Mörel-Filet,2009
+Fleurier,Neuchâtel,"Merged with Boveresse, Buttes, Couvet, Les Bayards, Môtiers, Noiraigue, Saint-Sulpice and Travers",Val-de-Travers,2009
+Flond,Grisons,Merged with Surcuolm,Mundaun,2009
+Borgnone,Ticino,Merged with Intragna and Palagnedra,Centovalli,2009
+Fregiécourt,Jura,"Merged with Asuel, Charmoille, Miécourt and Pleujouse",La Baroche,2009
+Arzo,Ticino,Incorporated into Mendrisio,Mendrisio,2009
+Asuel,Jura,"Merged with Charmoille, Fregiécourt, Miécourt and Pleujouse",La Baroche,2009
+Fuldera,Grisons,"Merged with Lü, Müstair, Santa Maria Val Müstair, Tschierv and Valchava",Val Müstair,2009
+Gerra,Ticino,Merged with Cugnasco,Cugnasco-Gerra,2009
+Gampel,Valais,Merged with Bratsch,Gampel-Bratsch,2009
+Cugnasco,Ticino,Merged with Gerra,Cugnasco-Gerra,2009
+Hämikon,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2009
+Malapalud,Vaud,Incorporated into Assens,Assens,2009
+Hemmental,Schaffhausen,Incorporated into Schaffhausen,Schaffhausen,2009
+Intragna,Ticino,Merged with Borgnone and Palagnedra,Centovalli,2009
+Capolago,Ticino,Incorporated into Mendrisio,Mendrisio,2009
+Chandolin,Valais,"Merged with Ayer, Grimentz, Saint-Jean, Saint-Luc and Vissoie",Anniviers,2009
+Charmoille,Jura,"Merged with Asuel, Fregiécourt, Miécourt and Pleujouse",La Baroche,2009
+Caneggio,Ticino,"Merged with Bruzella, Cabbio, Morbio Superiore, Muggio and Sagno",Breggia,2009
+Chevenez,Jura,"Merged with Damvant, Réclère and Roche-d'Or",Haute-Ajoie,2009
+Brunnadern,St. Gallen,Merged with Mogelsberg and St. Peterzell,Neckertal,2009
+Hofen,Schaffhausen,Incorporated into Thayngen,Thayngen,2009
+Clugin,Grisons,Incorporated into Andeer,Andeer,2009
+Cabbio,Ticino,"Merged with Bruzella, Caneggio, Morbio Superiore, Muggio and Sagno",Breggia,2009
+Genestrerio,Ticino,Incorporated into Mendrisio,Mendrisio,2009
+Buttes,Neuchâtel,"Merged with Boveresse, Couvet, Fleurier, Les Bayards, Môtiers, Noiraigue, Saint-Sulpice and Travers",Val-de-Travers,2009
+Ayer,Valais,"Merged with Chandolin, Grimentz, Saint-Jean, Saint-Luc and Vissoie",Anniviers,2009
+Bruzella,Ticino,"Merged with Cabbio, Caneggio, Morbio Superiore, Muggio and Sagno",Breggia,2009
+Les Bayards,Neuchâtel,"Merged with Boveresse, Buttes, Couvet, Fleurier, Môtiers, Noiraigue, Saint-Sulpice and Travers",Val-de-Travers,2009
+Buix,Jura,Merged with Courtemaîche and Montignez,Basse-Allaine,2009
+Courtemaîche,Jura,Merged with Buix and Montignez,Basse-Allaine,2009
+Marin-Epagnier,Neuchâtel,Merged with Thielle-Wavre,La Tène,2009
+Couvet,Neuchâtel,"Merged with Boveresse, Buttes, Fleurier, Les Bayards, Môtiers, Noiraigue, Saint-Sulpice and Travers",Val-de-Travers,2009
+Portein,Grisons,Incorporated into Cazis,Cazis,2010
+Oberhofen,Aargau,"Merged with Etzgen, Hottwil, Mettau and Wil",Mettauertal,2010
+Indemini,Ticino,"Merged with Caviano, Contone, Gerra, Magadino, Piazzogna, San Nazzaro, Sant'Abbondio and Vira",Gambarogno,2010
+Oberramsern,Solothurn,Incorporated into Messen,Messen,2010
+Bironico,Ticino,"Merged with Camignolo, Medeglia, Rivera and Sigirino",Monteceneri,2010
+Hottwil,Aargau,"Merged with Etzgen, Mettau, Oberhofen and Wil",Mettauertal,2010
+Vira,Ticino,"Merged with Caviano, Contone, Gerra, Indemini, Magadino, Piazzogna, San Nazzaro and Sant'Abbondio",Gambarogno,2010
+Parpan,Grisons,Incorporated into Churwalden,Churwalden,2010
+Hilfikon,Aargau,Incorporated into Villmergen,Villmergen,2010
+Piazzogna,Ticino,"Merged with Caviano, Contone, Gerra, Indemini, Magadino, San Nazzaro, Sant'Abbondio and Vira",Gambarogno,2010
+Medeglia,Ticino,"Merged with Bironico, Camignolo, Rivera and Sigirino",Monteceneri,2010
+Castasegna,Grisons,"Merged with Bondo, Soglio, Stampa and Vicosoprano",Bregaglia,2010
+Tartar,Grisons,Incorporated into Cazis,Cazis,2010
+Caviano,Ticino,"Merged with Contone, Gerra, Indemini, Magadino, Piazzogna, San Nazzaro, Sant'Abbondio and Vira",Gambarogno,2010
+Sulz,Aargau,Incorporated into Laufenburg,Laufenburg,2010
+Stampa,Grisons,"Merged with Bondo, Castasegna, Soglio and Vicosoprano",Bregaglia,2010
+Camignolo,Ticino,"Merged with Bironico, Medeglia, Rivera, Sigirino",Monteceneri,2010
+Soglio,Grisons,"Merged with Bondo, Castasegna, Stampa and Vicosoprano",Bregaglia,2010
+Sigirino,Ticino,"Merged with Bironico, Camignolo, Medeglia and Rivera",Monteceneri,2010
+Contone,Ticino,"Merged with Caviano, Gerra, Indemini, Magadino, Piazzogna, San Nazzaro, Sant'Abbondio and Vira",Gambarogno,2010
+Tüscherz-Alfermée,Bern,Merged with Twann,Twann-Tüscherz,2010
+Twann,Bern,Merged with Tüscherz-Alfermée,Twann-Tüscherz,2010
+Brunnenthal,Solothurn,Incorporated into Messen,Messen,2010
+Umiken,Aargau,Incorporated into Brugg,Brugg,2010
+Sarn,Grisons,Incorporated into Cazis,Cazis,2010
+Sant'Abbondio,Ticino,"Merged with Caviano, Contone, Gerra, Indemini, Magadino, Piazzogna, San Nazzaro and Vira",Gambarogno,2010
+San Nazzaro,Ticino,"Merged with Caviano, Contone, Gerra, Indemini, Magadino, Piazzogna, Sant'Abbondio and Vira",Gambarogno,2010
+Untersteckholz,Bern,Incorporated into Langenthal,Langenthal,2010
+Rohr,Aargau,Incorporated into Aarau,Aarau,2010
+Ittenthal,Aargau,Incorporated into Kaisten,Kaisten,2010
+Etzgen,Aargau,"Merged with Hottwil, Mettau, Oberhofen and Wil",Mettauertal,2010
+Bondo,Grisons,"Merged with Castasegna, Soglio, Stampa and Vicosoprano",Bregaglia,2010
+Vicosoprano,Grisons,"Merged with Bondo, Castasegna, Soglio and Stampa",Bregaglia,2010
+Gerra,Ticino,"Merged with Caviano, Contone, Indemini, Magadino, Piazzogna, San Nazzaro, Sant'Abbondio and Vira",Gambarogno,2010
+Rivera,Ticino,"Merged with Bironico, Camignolo, Medeglia and Sigirino",Monteceneri,2010
+Präz,Grisons,Incorporated into Cazis,Cazis,2010
+Littau,Lucerne,Incorporated into Lucerne,Lucerne,2010
+Aeschlen bei Oberdiessbach,Bern,Incorporated into Oberdiessbach,Oberdiessbach,2010
+Magadino,Ticino,"Merged with Caviano, Contone, Gerra, Indemini, Piazzogna, San Nazzaro, Sant'Abbondio and Vira",Gambarogno,2010
+Balm bei Messen,Solothurn,Incorporated into Messen,Messen,2010
+Mettau,Aargau,"Merged with Etzgen, Hottwil, Oberhofen and Wil",Mettauertal,2010
+Malix,Grisons,Incorporated into Churwalden,Churwalden,2010
+Wildhaus,St. Gallen,Merged with Alt St. Johann,Wildhaus-Alt St. Johann,2010
+Alt St. Johann,St. Gallen,Merged with Wildhaus,Wildhaus-Alt St. Johann,2010
+Wil,Aargau,"Merged with Etzgen, Hottwil, Mettau and Oberhofen",Mettauertal,2010
+Ballmoos,Bern,Incorporated into Jegenstorf,Jegenstorf,2010
+Cerniaz,Vaud,"Merged with Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux and Villars-Bramard",Valbroye,2011
+Poliez-le-Grand,Vaud,"Merged with Dommartin, Naz and Sugnens",Montilliez,2011
+Riex,Vaud,"Merged with Cully, Epesses, Grandvaux and Villette",Bourg-en-Lavaux,2011
+Bollodingen,Bern,Incorporated into Bettenhausen,Bettenhausen,2011
+Montmagny,Vaud,"Merged with Bellerive, Chabrey, Constantine, Mur, Vallamand and Villars-le-Grand",Vully-les-Lacs,2011
+Chabrey,Vaud,"Merged with Bellerive, Constantine, Montmagny, Mur, Vallamand and Villars-le-Grand",Vully-les-Lacs,2011
+Vernamiège,Valais,Merged with Mase and Nax,Mont-Noble,2011
+Luchsingen,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Linthal,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Luchsingen, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Pizy,Vaud,Incorporated into Aubonne,Aubonne,2011
+Villars-Bramard,Vaud,"Merged with Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel and Seigneux",Valbroye,2011
+Filzbach,Glarus,"Merged with Bilten, Mollis, Mühlehorn, Näfels, Niederurnen, Oberurnen and Obstalden",Glarus Nord,2011
+Villars-Burquin,Vaud,"Merged with Fontanezier, Romairon and Vaugondry",Tévenon,2011
+Peney-le-Jorat,Vaud,"Merged with Montaubion-Chardonney, Sottens, Villars-Mendraz and Villars-Tiercelin",Jorat-Menthue,2011
+Goumoens-la-Ville,Vaud,Merged with Éclagnens and Goumoens-le-Jux,Goumoëns,2011
+Goumoens-le-Jux,Vaud,Merged with Éclagnens and Goumoens-la-Ville,Goumoëns,2011
+Grandvaux,Vaud,"Merged with Cully, Epesses, Riex and Villette",Bourg-en-Lavaux,2011
+Granges-près-Marnand,Vaud,"Merged with Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Marnand, Sassel, Seigneux and Villars-Bramard",Valbroye,2011
+Villars-le-Grand,Vaud,"Merged with Bellerive, Chabrey, Constantine, Montmagny, Mur and Vallamand",Vully-les-Lacs,2011
+Gressy,Vaud,Incorporated into Yverdon-les-Bains,Yverdon-les-Bains,2011
+Oulens-sur-Lucens,Vaud,Incorporated into Lucens,Lucens,2011
+Sugnens,Vaud,"Merged with Dommartin, Naz and Poliez-le-Grand",Montilliez,2011
+Villars-Mendraz,Vaud,"Merged with Montaubion-Chardonney, Peney-le-Jorat, Sottens and Villars-Tiercelin",Jorat-Menthue,2011
+Haslen,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Bilten,Glarus,"Merged with Filzbach, Mollis, Mühlehorn, Näfels, Niederurnen, Oberurnen and Obstalden",Glarus Nord,2011
+Mase,Valais,Merged with Nax and Vernamiège,Mont-Noble,2011
+Vaugondry,Vaud,"Merged with Fontanezier, Romairon and Villars-Burquin",Tévenon,2011
+Riedern,Glarus,Incorporated into Glarus,Glarus,2011
+Sool,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden and Schwändi",Glarus Süd,2011
+Marnand,Vaud,"Merged with Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Sassel, Seigneux and Villars-Bramard",Valbroye,2011
+Mitlödi,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Colombier,Vaud,Incorporated into Echichens,Echichens,2011
+Combremont-le-Grand,Vaud,"Merged with Cerniaz, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux and Villars-Bramard",Valbroye,2011
+Seigneux,Vaud,"Merged with Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel and Villars-Bramard",Valbroye,2011
+Combremont-le-Petit,Vaud,"Merged with Cerniaz, Combremont-le-Grand, Granges-près-Marnand, Marnand, Sassel, Seigneux and Villars-Bramard",Valbroye,2011
+Constantine,Vaud,"Merged with Bellerive, Chabrey, Montmagny, Mur, Vallamand and Villars-le-Grand",Vully-les-Lacs,2011
+Busswil bei Büren,Bern,Incorporated into Lyss,Lyss,2011
+Schwändi,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden and Sool",Glarus Süd,2011
+Schwanden,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwändi and Sool",Glarus Süd,2011
+Albligen,Bern,Merged with Wahlern,Schwarzenburg,2011
+Mollis,Glarus,"Merged with Bilten, Filzbach, Mühlehorn, Näfels, Niederurnen, Oberurnen and Obstalden",Glarus Nord,2011
+Monnaz,Vaud,Incorporated into Echichens,Echichens,2011
+Fanas,Grisons,Incorporated into Grüsch,Grüsch,2011
+Cully,Vaud,"Merged with Epesses, Grandvaux, Riex and Villette",Bourg-en-Lavaux,2011
+Montaubion-Chardonney,Vaud,"Merged with Peney-le-Jorat, Sottens, Villars-Mendraz and Villars-Tiercelin",Jorat-Menthue,2011
+Saint-Saphorin-sur-Morges,Vaud,Incorporated into Echichens,Echichens,2011
+Dommartin,Vaud,"Merged with Naz, Poliez-le-Grand and Sugnens",Montilliez,2011
+Rüti,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Braunwald,Glarus,"Merged with Betschwanden, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Éclagnens,Vaud,Merged with Goumoens-la-Ville and Goumoens-le-Jux,Goumoëns,2011
+Vallamand,Vaud,"Merged with Bellerive, Chabrey, Constantine, Montmagny, Mur and Villars-le-Grand",Vully-les-Lacs,2011
+Elm,Glarus,"Merged with Betschwanden, Braunwald, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Engi,Glarus,"Merged with Betschwanden, Braunwald, Elm, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Ennenda,Glarus,Incorporated into Glarus,Glarus,2011
+Romairon,Vaud,"Merged with Fontanezier, Vaugondry and Villars-Burquin",Tévenon,2011
+Epesses,Vaud,"Merged with Cully, Grandvaux, Riex and Villette",Bourg-en-Lavaux,2011
+Valzeina,Grisons,Incorporated into Grüsch,Grüsch,2011
+Oleyres,Vaud,Incorporated into Avenches,Avenches,2011
+Sassel,Vaud,"Merged with Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Seigneux and Villars-Bramard",Valbroye,2011
+Villars-Tiercelin,Vaud,"Merged with Montaubion-Chardonney, Peney-le-Jorat, Sottens and Villars-Mendraz",Jorat-Menthue,2011
+Fontanezier,Vaud,"Merged with Romairon, Vaugondry and Villars-Burquin",Tévenon,2011
+Sottens,Vaud,"Merged with Montaubion-Chardonney, Peney-le-Jorat, Villars-Mendraz and Villars-Tiercelin",Jorat-Menthue,2011
+Niederurnen,Glarus,"Merged with Bilten, Filzbach, Mollis, Mühlehorn, Näfels, Oberurnen and Obstalden",Glarus Nord,2011
+Betschwanden,Glarus,"Merged with Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Matt, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Nax,Valais,Merged with Mase and Vernamiège,Mont-Noble,2011
+Naz,Vaud,"Merged with Dommartin, Poliez-le-Grand and Sugnens",Montilliez,2011
+Niederwil,Solothurn,Incorporated into Riedholz,Riedholz,2011
+Villette,Vaud,"Merged with Cully, Epesses, Grandvaux and Riex",Bourg-en-Lavaux,2011
+Mur,Vaud,"Merged with Bellerive, Chabrey, Constantine, Montmagny, Vallamand and Villars-le-Grand",Vully-les-Lacs,2011
+Kleindietwil,Bern,Incorporated into Madiswil,Madiswil,2011
+Obstalden,Glarus,"Merged with Bilten, Filzbach, Mollis, Mühlehorn, Näfels, Niederurnen and Oberurnen",Glarus Nord,2011
+Leimiswil,Bern,Incorporated into Madiswil,Madiswil,2011
+Oberurnen,Glarus,"Merged with Bilten, Filzbach, Mollis, Mühlehorn, Näfels, Niederurnen and Obstalden",Glarus Nord,2011
+Matt,Glarus,"Merged with Betschwanden, Braunwald, Elm, Engi, Haslen, Linthal, Luchsingen, Mitlödi, Rüti, Schwanden, Schwändi and Sool",Glarus Süd,2011
+Wahlern,Bern,Merged with Albligen,Schwarzenburg,2011
+Näfels,Glarus,"Merged with Bilten, Filzbach, Mollis, Mühlehorn, Niederurnen, Oberurnen and Obstalden",Glarus Nord,2011
+Villarvolard,Fribourg,Incorporated into Corbières,Corbières,2011
+Bellerive,Vaud,"Merged with Chabrey, Constantine, Montmagny, Mur, Vallamand and Villars-le-Grand",Vully-les-Lacs,2011
+Mühlehorn,Glarus,"Merged with Bilten, Filzbach, Mollis, Näfels, Niederurnen, Oberurnen and Obstalden",Glarus Nord,2011
+Netstal,Glarus,Incorporated into Glarus,Glarus,2011
+Essert-sous-Champvent,Vaud,Incorporated into Champvent,Champvent,2012
+Les Tavernes,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Chesalles-sur-Oron,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Semione,Ticino,Merged with Ludiano and Malvaglia,Serravalle,2012
+Belpberg,Bern,Incorporated into Belp,Belp,2012
+Font,Fribourg,Incorporated into Estavayer-le-Lac,Estavayer-le-Lac,2012
+Vuibroye,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel and Palézieux",Oron,2012
+Steinhof,Solothurn,Incorporated into Aeschi,Aeschi,2012
+Schlans,Grisons,Incorporated into Trun,Trun,2012
+Malvaglia,Ticino,Merged with Ludiano and Semione,Serravalle,2012
+Benzenschwil,Aargau,Incorporated into Merenschwand,Merenschwand,2012
+Anzonico,Ticino,Incorporated into Faido,Faido,2012
+Mastrils,Grisons,Merged with Igis,Landquart,2012
+Les Thioleyres,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Oron-la-Ville, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Bussigny-sur-Oron,Vaud,"Merged with Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Cavagnago,Ticino,Incorporated into Faido,Faido,2012
+Écoteaux,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Carabietta,Ticino,Incorporated into Collina d'Oro,Collina d'Oro,2012
+Campello,Ticino,Incorporated into Faido,Faido,2012
+Vuarmarens,Fribourg,Incorporated into Ursy,Ursy,2012
+Prahins,Vaud,Incorporated into Donneloye,Donneloye,2012
+Igis,Grisons,Merged with Mastrils,Landquart,2012
+Ludiano,Ticino,Merged with Malvaglia and Semione,Serravalle,2012
+Calpiogna,Ticino,Incorporated into Faido,Faido,2012
+Mairengo,Ticino,Incorporated into Faido,Faido,2012
+Les Cullayes,Vaud,Incorporated into Servion,Servion,2012
+Osco,Ticino,Incorporated into Faido,Faido,2012
+Villars-sous-Champvent,Vaud,Incorporated into Champvent,Champvent,2012
+Chironico,Ticino,Incorporated into Faido,Faido,2012
+Oron-le-Châtel,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Palézieux and Vuibroye",Oron,2012
+Palézieux,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel and Vuibroye",Oron,2012
+Châtillens,Vaud,"Merged with Bussigny-sur-Oron, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Oron-la-Ville,Vaud,"Merged with Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-le-Châtel, Palézieux and Vuibroye",Oron,2012
+Unterbözberg,Aargau,"Merged with Gallenkirch, Linn and Oberbözberg",Bözberg,2013
+Stein,St. Gallen,Merged with Nesslau-Krummenau,Nesslau-Krummenau,2013
+Vella,Grisons,"Merged with Cumbel, Degen, Lumbrein, Morissen, Suraua, Vignogn and Vrin",Lumnezia,2013
+Boudevilliers,Neuchâtel,"Merged with Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Neudorf,Lucerne,Incorporated into Beromünster,Beromünster,2013
+Dombresson,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+St. Gallenkappel,St. Gallen,Incorporated into Eschenbach,Eschenbach,2013
+Rieden,St. Gallen,Incorporated into Gommiswald,Gommiswald,2013
+Courfaivre,Jura,"Merged with Bassecourt, Glovelier, Soulce and Undervelier",Haute-Sorne,2013
+Denezy,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Correvon, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges and Thierrens",Montanaire,2013
+Lüen,Grisons,Incorporated into Arosa,Arosa,2013
+Degen,Grisons,"Merged with Cumbel, Lumbrein, Morissen, Suraua, Vella, Vignogn and Vrin",Lumnezia,2013
+Fenin-Vilars-Saules,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Salins,Valais,Incorporated into Sion,Sion,2013
+Turtmann,Valais,Merged with Unterems,Turtmann-Unterems,2013
+Unterems,Valais,Merged with Turtmann,Turtmann-Unterems,2013
+Molinis,Grisons,Incorporated into Arosa,Arosa,2013
+Chanéaz,Vaud,"Merged with Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges and Thierrens",Montanaire,2013
+Büchslen,Fribourg,Incorporated into Murten,Murten,2013
+Bassecourt,Jura,"Merged with Courfaivre, Glovelier, Soulce and Undervelier",Haute-Sorne,2013
+Valcolla,Ticino,Incorporated into Lugano,Lugano,2013
+Valendas,Grisons,"Merged with Safien, Tenna and Versam",Safiental,2013
+Langwies,Grisons,Incorporated into Arosa,Arosa,2013
+Ruppoldsried,Bern,Incorporated into Rapperswil,Rapperswil,2013
+Undervelier,Jura,"Merged with Bassecourt, Courfaivre, Glovelier and Soulce",Haute-Sorne,2013
+Bressaucourt,Jura,Incorporated into Fontenais,Fontenais,2013
+Savagnier,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin and Villiers",Val-de-Ruz,2013
+Neyruz-sur-Moudon,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Peyres-Possens, Saint-Cierges and Thierrens",Montanaire,2013
+Castiel,Grisons,Incorporated into Arosa,Arosa,2013
+Engollon,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Carona,Ticino,Incorporated into Lugano,Lugano,2013
+Cumbel,Grisons,"Merged with Degen, Lumbrein, Morissen, Suraua, Vella, Vignogn and Vrin",Lumnezia,2013
+St. Peter-Pagig,Grisons,Incorporated into Arosa,Arosa,2013
+Krinau,St. Gallen,Incorporated into Wattwil,Wattwil,2013
+Safien,Grisons,"Merged with Tenna, Valendas and Versam",Safiental,2013
+Niederried bei Kallnach,Bern,Incorporated into Kallnach,Kallnach,2013
+Lüsslingen,Solothurn,Merged with Nennigkofen,Lüsslingen-Nennigkofen,2013
+Thierrens,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens and Saint-Cierges",Montanaire,2013
+Bronschhofen,St. Gallen,Incorporated into Wil,Wil,2013
+Saint-Cierges,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens and Thierrens",Montanaire,2013
+Chapelle-sur-Moudon,Vaud,"Merged with Chanéaz, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges and Thierrens",Montanaire,2013
+Ernetschwil,St. Gallen,Incorporated into Gommiswald,Gommiswald,2013
+Erschmatt,Valais,Incorporated into Leuk,Leuk,2013
+Escholzmatt,Lucerne,Merged with Marbach,Escholzmatt-Marbach,2013
+Lumbrein,Grisons,"Merged with Cumbel, Degen, Morissen, Suraua, Vella, Vignogn and Vrin",Lumnezia,2013
+Versam,Grisons,"Merged with Safien, Tenna and Valendas",Safiental,2013
+Vermes,Jura,Merged with Montsevelier and Vicques,Val Terbi,2013
+Birgisch,Valais,Incorporated into Naters,Naters,2013
+Correvon,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges and Thierrens",Montanaire,2013
+Bütschwil,St. Gallen,Merged with Ganterschwil,Bütschwil-Ganterschwil,2013
+Meride,Ticino,Incorporated into Mendrisio,Mendrisio,2013
+Coffrane,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Pfeffikon,Lucerne,Incorporated into Rickenbach,Rickenbach,2013
+Peyres-Possens,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Saint-Cierges and Thierrens",Montanaire,2013
+Besazio,Ticino,Incorporated into Mendrisio,Mendrisio,2013
+Peist,Grisons,Incorporated into Arosa,Arosa,2013
+Suraua,Grisons,"Merged with Cumbel, Degen, Lumbrein, Morissen, Vella, Vignogn and Vrin",Lumnezia,2013
+Cadro,Ticino,Incorporated into Lugano,Lugano,2013
+Tegna,Ticino,Merged with Cavigliano and Verscio,Terre di Pedemonte,2013
+Villiers,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin and Savagnier",Val-de-Ruz,2013
+Goldingen,St. Gallen,Incorporated into Eschenbach,Eschenbach,2013
+Les Hauts-Geneveys,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Cimadera,Ticino,Incorporated into Lugano,Lugano,2013
+Soulce,Jura,"Merged with Bassecourt, Courfaivre, Glovelier and Undervelier",Haute-Sorne,2013
+Les Geneveys-sur-Coffrane,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Chézard-Saint-Martin,Neuchâtel,"Merged with Boudevilliers, Cernier, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Guntmadingen,Schaffhausen,Incorporated into Beringen,Beringen,2013
+Auvernier,Neuchâtel,Merged with Bôle and Colombier,Milvignes,2013
+Heinrichswil-Winistorf,Solothurn,Merged with Hersiwil,Drei Höfe,2013
+Mex,Valais,Incorporated into Saint-Maurice,Saint-Maurice,2013
+Sonvico,Ticino,Incorporated into Lugano,Lugano,2013
+Tenna,Grisons,"Merged with Safien, Valendas and Versam",Safiental,2013
+Ohmstal,Lucerne,Incorporated into Schötz,Schötz,2013
+Cavigliano,Ticino,Merged with Tegna and Verscio,Terre di Pedemonte,2013
+Hersiwil,Solothurn,Merged with Heinrichswil-Winistorf,Drei Höfe,2013
+Calfreisen,Grisons,Incorporated into Arosa,Arosa,2013
+Mund,Valais,Incorporated into Naters,Naters,2013
+Colombier,Neuchâtel,Merged with Auvernier and Bôle,Milvignes,2013
+Vicques,Jura,Merged with Montsevelier and Vermes,Val Terbi,2013
+Montmollin,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Savagnier and Villiers",Val-de-Ruz,2013
+Martherenges,Vaud,"Merged with Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges and Thierrens",Montanaire,2013
+Montsevelier,Jura,Merged with Vermes and Vicques,Val Terbi,2013
+Trimstein,Bern,Incorporated into Münsingen,Münsingen,2013
+Gallenkirch,Aargau,"Merged with Linn, Oberbözberg and Unterbözberg",Bözberg,2013
+Vrin,Grisons,"Merged with Cumbel, Degen, Lumbrein, Morissen, Suraua, Vella and Vignogn",Lumnezia,2013
+Cernier,Neuchâtel,"Merged with Boudevilliers, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Linn,Aargau,"Merged with Gallenkirch, Oberbözberg and Unterbözberg",Bözberg,2013
+Marbach,Lucerne,Merged with Escholzmatt,Escholzmatt-Marbach,2013
+Tschlin,Grisons,Merged with Ramosch,Valsot,2013
+Bôle,Neuchâtel,Merged with Auvernier and Colombier,Milvignes,2013
+Ramosch,Grisons,Merged with Tschlin,Valsot,2013
+Ganterschwil,St. Gallen,Merged with Bütschwil,Bütschwil-Ganterschwil,2013
+Nesslau-Krummenau,St. Gallen,Merged with Stein,Stein,2013
+Fontaines,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Vignogn,Grisons,"Merged with Cumbel, Degen, Lumbrein, Morissen, Suraua, Vella and Vrin",Lumnezia,2013
+Fontainemelon,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontaines, Le Pâquier, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Bogno,Ticino,Incorporated into Lugano,Lugano,2013
+Morissen,Grisons,"Merged with Cumbel, Degen, Lumbrein, Suraua, Vella, Vignogn and Vrin",Lumnezia,2013
+Ligornetto,Ticino,Incorporated into Mendrisio,Mendrisio,2013
+Nennigkofen,Solothurn,Merged with Lüsslingen,Lüsslingen-Nennigkofen,2013
+Certara,Ticino,Incorporated into Lugano,Lugano,2013
+Glovelier,Jura,"Merged with Bassecourt, Courfaivre, Soulce and Undervelier",Haute-Sorne,2013
+Oberbözberg,Aargau,"Merged with Gallenkirch, Linn and Unterbözberg",Bözberg,2013
+Le Pâquier,Neuchâtel,"Merged with Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Savagnier and Villiers",Val-de-Ruz,2013
+Verscio,Ticino,Merged with Cavigliano and Tegna,Terre di Pedemonte,2013
+Brügglen,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Gossliwil, Hessigkofen, Küttigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Büren zum Hof,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Aetigkofen,Solothurn,"Merged with Aetingen, Bibern, Brügglen, Gossliwil, Hessigkofen, Küttigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Schinznach-Dorf,Aargau,Merged with Oberflachs,Schinznach,2014
+Tscheppach,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Brügglen, Gossliwil, Hessigkofen, Küttigkofen, Kyburg-Buchegg and Mühledorf",Buchegg,2014
+Siat,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus and Sevgein",Ilanz/Glion,2014
+Sevgein,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus and Siat",Ilanz/Glion,2014
+Schalunen,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Aetingen,Solothurn,"Merged with Aetigkofen, Bibern, Brügglen, Gossliwil, Hessigkofen, Küttigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Scheunen,Bern,Incorporated into Jegenstorf,Jegenstorf,2014
+Schnaus,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Sevgein and Siat",Ilanz/Glion,2014
+Zauggenried,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Lamboing,Bern,Merged with Diesse and Prêles,Plateau de Diesse,2014
+Ladir,Grisons,"Merged with Castrisch, Duvin, Ilanz, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Hessigkofen,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Brügglen, Gossliwil, Küttigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Pitasch,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Cerniat,Fribourg,Merged with Charmey,Val-de-Charmey,2014
+Oberstocken,Bern,Merged with Höfen bei Thun and Niederstocken,Stocken-Höfen,2014
+Plagne,Bern,Merged with Vauffelin,Sauge,2014
+Vauffelin,Bern,Merged with Plagne,Sauge,2014
+Riein,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Etzelkofen,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Castrisch,Grisons,"Merged with Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Kienersrüti,Bern,Incorporated into Uttigen,Uttigen,2014
+Bibern,Solothurn,"Merged with Aetigkofen, Aetingen, Brügglen, Gossliwil, Hessigkofen, Küttigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Grafenried,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Pigniu,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pitasch, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Prêles,Bern,Merged with Diesse and Lamboing,Plateau de Diesse,2014
+Münchringen,Bern,Incorporated into Jegenstorf,Jegenstorf,2014
+Gossliwil,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Brügglen, Hessigkofen, Küttigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Oberflachs,Aargau,Merged with Schinznach-Dorf,Schinznach,2014
+Limpach,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Küttigkofen,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Brügglen, Gossliwil, Hessigkofen, Kyburg-Buchegg, Mühledorf and Tscheppach",Buchegg,2014
+Rueun,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Luven,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Unterendingen,Aargau,Incorporated into Endingen,Endingen,2014
+Diesse,Bern,Merged with Lamboing and Prêles,Plateau de Diesse,2014
+Ilanz,Grisons,"Merged with Castrisch, Duvin, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Hermetschwil-Staffeln,Aargau,Incorporated into Bremgarten,Bremgarten,2014
+Mühledorf,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Brügglen, Gossliwil, Hessigkofen, Küttigkofen, Kyburg-Buchegg and Tscheppach",Buchegg,2014
+Duvin,Grisons,"Merged with Castrisch, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Ruschein, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Gadmen,Bern,Incorporated into Innertkirchen,Innertkirchen,2014
+Martisberg,Valais,Merged with Betten,Bettmeralp,2014
+Ruschein,Grisons,"Merged with Castrisch, Duvin, Ilanz, Ladir, Luven, Pigniu, Pitasch, Riein, Rueun, Schnaus, Sevgein and Siat",Ilanz/Glion,2014
+Charmey,Fribourg,Merged with Cerniat,Val-de-Charmey,2014
+Mülchi,Bern,Incorporated into Fraubrunnen,Fraubrunnen,2014
+Niederstocken,Bern,Merged with Höfen bei Thun and Oberstocken,Stocken-Höfen,2014
+Kyburg-Buchegg,Solothurn,"Merged with Aetigkofen, Aetingen, Bibern, Brügglen, Gossliwil, Hessigkofen, Küttigkofen, Mühledorf and Tscheppach",Buchegg,2014
+Höfen bei Thun,Bern,Merged with Niederstocken and Oberstocken,Stocken-Höfen,2014
+Bleiken bei Oberdiessbach,Bern,Incorporated into Oberdiessbach,Oberdiessbach,2014
+Betten,Valais,Merged with Martisberg,Bettmeralp,2014
+Bertschikon bei Attikon,Zürich,Incorporated into Wiesendangen,Wiesendangen,2014
+Selma,Grisons,"Merged with Arvigo, Braggio and Cauco",Calanca,2015
+St. Martin,Grisons,Incorporated into Vals,Vals,2015
+Péry,Bern,Merged with La Heutte,Péry-la-Heutte,2015
+Surava,Grisons,"Merged with Alvaneu, Alvaschein, Brienz/Brinzauls, Mon, Stierva and Tiefencastel",Albula/Alvra,2015
+Souboz,Bern,"Merged with Châtelat, Monible and Sornetan",Petit-Val,2015
+Guarda,Grisons,Incorporated into Scuol,Scuol,2015
+Bévilard,Bern,Merged with Malleray and Pontenet,Valbirse,2015
+Sornetan,Bern,"Merged with Châtelat, Monible and Souboz",Petit-Val,2015
+Sent,Grisons,Incorporated into Scuol,Scuol,2015
+Paspels,Grisons,"Merged with Almens, Pratval, Rodels and Tomils",Domleschg,2015
+Arvigo,Grisons,"Merged with Braggio, Cauco and Selma",Calanca,2015
+Braggio,Grisons,"Merged with Arvigo, Cauco and Selma",Calanca,2015
+Almens,Grisons,"Merged with Paspels, Pratval, Rodels and Tomils",Domleschg,2015
+Châtelat,Bern,"Merged with Monible, Sornetan and Souboz",Petit-Val,2015
+Tarasp,Grisons,Incorporated into Scuol,Scuol,2015
+Brienz/Brinzauls,Grisons,"Merged with Alvaneu, Alvaschein, Mon, Stierva, Surava and Tiefencastel",Albula/Alvra,2015
+Tiefencastel,Grisons,"Merged with Alvaneu, Alvaschein, Brienz/Brinzauls, Mon, Stierva and Surava",Albula/Alvra,2015
+Malleray,Bern,Merged with Bévilard and Pontenet,Valbirse,2015
+Monible,Bern,"Merged with Châtelat, Sornetan and Souboz",Petit-Val,2015
+Mon,Grisons,"Merged with Alvaneu, Alvaschein, Brienz/Brinzauls, Stierva, Surava and Tiefencastel",Albula/Alvra,2015
+Alvaneu,Grisons,"Merged with Alvaschein, Brienz/Brinzauls, Mon, Stierva, Surava and Tiefencastel",Albula/Alvra,2015
+Lavin,Grisons,Incorporated into Zernez,Zernez,2015
+Pontenet,Bern,Merged with Bévilard and Malleray,Valbirse,2015
+Rodels,Grisons,"Merged with Almens, Paspels, Pratval and Tomils",Domleschg,2015
+Sternenberg,Zürich,Incorporated into Bauma,Bauma,2015
+Stierva,Grisons,"Merged with Alvaneu, Alvaschein, Brienz/Brinzauls, Mon, Surava and Tiefencastel",Albula/Alvra,2015
+Ardez,Grisons,Incorporated into Scuol,Scuol,2015
+Cauco,Grisons,"Merged with Arvigo, Braggio and Selma",Calanca,2015
+Susch,Grisons,Incorporated into Zernez,Zernez,2015
+Tomils,Grisons,"Merged with Almens, Paspels, Pratval and Rodels",Domleschg,2015
+La Heutte,Bern,Merged with Péry,Péry-la-Heutte,2015
+Ftan,Grisons,Incorporated into Scuol,Scuol,2015
+Pratval,Grisons,"Merged with Almens, Paspels, Rodels and Tomils",Domleschg,2015
+Alvaschein,Grisons,"Merged with Alvaneu, Brienz/Brinzauls, Mon, Stierva, Surava and Tiefencastel",Albula/Alvra,2015
+Sur,Grisons,"Merged with Bivio, Cunter, Marmorera, Mulegns, Riom-Parsonz, Salouf, Savognin and Tinizong-Rona",Surses,2016
+Tinizong-Rona,Grisons,"Merged with Bivio, Cunter, Marmorera, Mulegns, Riom-Parsonz, Salouf, Savognin and Sur",Surses,2016
+St. Antönien,Grisons,Incorporated into Luzein,Luzein,2016
+Carrouge,Vaud,Merged with Ferlens and Mézières,Jorat-Mézières,2016
+Sobrio,Ticino,Incorporated into Faido,Faido,2016
+Niederösch,Bern,Incorporated into Ersigen,Ersigen,2016
+Ferlens,Vaud,Merged with Carrouge and Mézières,Jorat-Mézières,2016
+Vergeletto,Ticino,Incorporated into Onsernone,Onsernone,2016
+Mézières,Vaud,Merged with Carrouge and Ferlens,Jorat-Mézières,2016
+Bivio,Grisons,"Merged with Cunter, Marmorera, Mulegns, Riom-Parsonz, Salouf, Savognin, Sur and Tinizong-Rona",Surses,2016
+Kyburg,Zürich,Incorporated into Illnau-Effretikon,Illnau-Effretikon,2016
+Mosogno,Ticino,Incorporated into Onsernone,Onsernone,2016
+Farvagny,Fribourg,"Merged with Corpataux-Magnedens, Le Glèbe, Rossens and Vuisternens-en-Ogoz",Gibloux,2016
+Gresso,Ticino,Incorporated into Onsernone,Onsernone,2016
+Haut-Vully,Fribourg,Merged with Bas-Vully,Mont-Vully,2016
+Hermiswil,Bern,Incorporated into Seeberg,Seeberg,2016
+Vuisternens-en-Ogoz,Fribourg,"Merged with Corpataux-Magnedens, Farvagny, Le Glèbe and Rossens",Gibloux,2016
+Mulegns,Grisons,"Merged with Bivio, Cunter, Marmorera, Riom-Parsonz, Salouf, Savognin, Sur and Tinizong-Rona",Surses,2016
+Obersaxen,Grisons,Merged with Mundaun,Obersaxen Mundaun,2016
+Oberösch,Bern,Incorporated into Ersigen,Ersigen,2016
+Mundaun,Grisons,Merged with Obersaxen,Obersaxen Mundaun,2016
+Autafond,Fribourg,Incorporated into Belfaux,Belfaux,2016
+Isorno,Ticino,Incorporated into Onsernone,Onsernone,2016
+Bangerten,Bern,Incorporated into Rapperswil,Rapperswil,2016
+Lurtigen,Fribourg,Incorporated into Murten,Murten,2016
+Léchelles,Fribourg,"Merged with Domdidier, Dompierre and Russy",Belmont-Broye,2016
+Marmorera,Grisons,"Merged with Bivio, Cunter, Mulegns, Riom-Parsonz, Salouf, Savognin, Sur and Tinizong-Rona",Surses,2016
+Bas-Vully,Fribourg,Merged with Haut-Vully,Mont-Vully,2016
+Corpataux-Magnedens,Fribourg,"Merged with Farvagny, Le Glèbe, Rossens and Vuisternens-en-Ogoz",Gibloux,2016
+Courlevon,Fribourg,Incorporated into Murten,Murten,2016
+Savognin,Grisons,"Merged with Bivio, Cunter, Marmorera, Mulegns, Riom-Parsonz, Salouf, Sur and Tinizong-Rona",Surses,2016
+Cunter,Grisons,"Merged with Bivio, Marmorera, Mulegns, Riom-Parsonz, Salouf, Savognin, Sur and Tinizong-Rona",Surses,2016
+Salvenach,Fribourg,Incorporated into Murten,Murten,2016
+Salouf,Grisons,"Merged with Bivio, Cunter, Marmorera, Mulegns, Riom-Parsonz, Savognin, Sur and Tinizong-Rona",Surses,2016
+Domdidier,Fribourg,"Merged with Dompierre, Léchelles and Russy",Belmont-Broye,2016
+Brot-Dessous,Neuchâtel,Incorporated into Rochefort,Rochefort,2016
+Dompierre,Fribourg,"Merged with Domdidier, Léchelles and Russy",Belmont-Broye,2016
+Saas im Prättigau,Grisons,Incorporated into Klosters,Klosters,2016
+Russy,Fribourg,"Merged with Domdidier, Dompierre and Léchelles",Belmont-Broye,2016
+Le Glèbe,Fribourg,"Merged with Corpataux-Magnedens, Farvagny, Rossens and Vuisternens-en-Ogoz",Gibloux,2016
+Rossens,Fribourg,"Merged with Corpataux-Magnedens, Farvagny, Le Glèbe and Vuisternens-en-Ogoz",Gibloux,2016
+Riom-Parsonz,Grisons,"Merged with Bivio, Cunter, Marmorera, Mulegns, Salouf, Savognin, Sur and Tinizong-Rona",Surses,2016
+Jeuss,Fribourg,Incorporated into Murten,Murten,2016
+Wallenried,Fribourg,Incorporated into Courtepin,Courtepin,2017
+Vernay,Fribourg,"Merged with Bussy, Estavayer-le-Lac, Morens, Murist, Rueyres-les-Prés and Vuissens",Estavayer,2017
+Villeneuve,Fribourg,Incorporated into Surpierre,Surpierre,2017
+Villarepos,Fribourg,Incorporated into Courtepin,Courtepin,2017
+Blitzingen,Valais,"Merged with Grafschaft, Münster-Geschinen, Niederwald and Reckingen-Gluringen",Goms,2017
+Verdabbio,Grisons,Incorporated into Grono,Grono,2017
+Brenles,Vaud,Incorporated into Lucens,Lucens,2017
+Bussy,Fribourg,"Merged with Estavayer-le-Lac, Morens, Murist, Rueyres-les-Prés, Vernay and Vuissens",Estavayer,2017
+Camorino,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Vuissens,Fribourg,"Merged with Bussy, Estavayer-le-Lac, Morens, Murist, Rueyres-les-Prés and Vernay",Estavayer,2017
+Barberêche,Fribourg,Incorporated into Courtepin,Courtepin,2017
+Zumholz,Fribourg,Incorporated into Plaffeien,Plaffeien,2017
+Tägertschi,Bern,Incorporated into Münsingen,Münsingen,2017
+Essert-Pittet,Vaud,Incorporated into Chavornay,Chavornay,2017
+Oberschrot,Fribourg,Incorporated into Plaffeien,Plaffeien,2017
+Cremin,Vaud,Incorporated into Lucens,Lucens,2017
+Cresciano,Ticino,"Merged with Iragna, Lodrino and Osogna",Riviera,2017
+Osogna,Ticino,"Merged with Cresciano, Iragna and Lodrino",Riviera,2017
+Gudo,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Sarzens,Vaud,Incorporated into Lucens,Lucens,2017
+Grafschaft,Valais,"Merged with Blitzingen, Münster-Geschinen, Niederwald and Reckingen-Gluringen",Goms,2017
+Sant'Antonio,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Pianezzo,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Gorduno,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Gnosca,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Giubiasco,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Preonzo,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Randogne,Valais,"Merged with Chermignon, Mollens and Montana",Crans-Montana,2017
+Forel-sur-Lucens,Vaud,Incorporated into Lucens,Lucens,2017
+Reckingen-Gluringen,Valais,"Merged with Blitzingen, Grafschaft, Münster-Geschinen and Niederwald",Goms,2017
+Rueyres-les-Prés,Fribourg,"Merged with Bussy, Estavayer-le-Lac, Morens, Murist, Vernay and Vuissens",Estavayer,2017
+Estavayer-le-Lac,Fribourg,"Merged with Bussy, Morens, Murist, Rueyres-les-Prés, Vernay and Vuissens",Estavayer,2017
+Niederwald,Valais,"Merged with Blitzingen, Grafschaft, Münster-Geschinen and Reckingen-Gluringen",Goms,2017
+Corcelles-sur-Chavornay,Vaud,Incorporated into Chavornay,Chavornay,2017
+Iragna,Ticino,"Merged with Cresciano, Lodrino and Osogna",Riviera,2017
+Cheyres,Fribourg,Merged with Châbles,Cheyres-Châbles,2017
+Monte Carasso,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Claro,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Chesalles-sur-Moudon,Vaud,Incorporated into Lucens,Lucens,2017
+Lodrino,Ticino,"Merged with Cresciano, Iragna and Osogna",Riviera,2017
+Morens,Fribourg,"Merged with Bussy, Estavayer-le-Lac, Murist, Rueyres-les-Prés, Vernay and Vuissens",Estavayer,2017
+Chermignon,Valais,"Merged with Mollens, Montana and Randogne",Crans-Montana,2017
+Chésopelloz,Fribourg,Incorporated into Corminboeuf,Corminboeuf,2017
+Mollens,Valais,"Merged with Chermignon, Montana and Randogne",Crans-Montana,2017
+Les Agettes,Valais,Incorporated into Sion,Sion,2017
+Moleno,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Münster-Geschinen,Valais,"Merged with Blitzingen, Grafschaft, Niederwald and Reckingen-Gluringen",Goms,2017
+Murist,Fribourg,"Merged with Bussy, Estavayer-le-Lac, Morens, Rueyres-les-Prés, Vernay and Vuissens",Estavayer,2017
+Châbles,Fribourg,Merged with Cheyres,Cheyres-Châbles,2017
+Leggia,Grisons,Incorporated into Grono,Grono,2017
+Sementina,Ticino,Incorporated into Bellinzona,Bellinzona,2017
+Montana,Valais,"Merged with Chermignon, Mollens and Randogne",Crans-Montana,2017
+Filisur,Grisons,Merged with Bergün/Bravuogn,Bergün Filisur,2018
+Vaumarcus,Neuchâtel,"Merged with Bevaix, Fresens, Gorgier, Montalchez and Saint-Aubin-Sauges",La Grande Béroche,2018
+Fresens,Neuchâtel,"Merged with Bevaix, Gorgier, Montalchez, Saint-Aubin-Sauges and Vaumarcus",La Grande Béroche,2018
+Montalchez,Neuchâtel,"Merged with Bevaix, Fresens, Gorgier, Saint-Aubin-Sauges and Vaumarcus",La Grande Béroche,2018
+Mutten,Grisons,Incorporated into Thusis,Thusis,2018
+Gorgier,Neuchâtel,"Merged with Bevaix, Fresens, Montalchez, Saint-Aubin-Sauges and Vaumarcus",La Grande Béroche,2018
+Waltensburg/Vuorz,Grisons,Incorporated into Breil/Brigels,Breil/Brigels,2018
+Andiast,Grisons,Incorporated into Breil/Brigels,Breil/Brigels,2018
+Mühledorf,Bern,Incorporated into Kirchdorf,Kirchdorf,2018
+Bevaix,Neuchâtel,"Merged with Fresens, Gorgier, Montalchez, Saint-Aubin-Sauges and Vaumarcus",La Grande Béroche,2018
+Hirzel,Zürich,Incorporated into Horgen,Horgen,2018
+Hofstetten,Zürich,Incorporated into Elgg,Elgg,2018
+Bergün/Bravuogn,Grisons,Merged with Filisur,Bergün Filisur,2018
+Noflen,Bern,Incorporated into Kirchdorf,Kirchdorf,2018
+Gelterfingen,Bern,Incorporated into Kirchdorf,Kirchdorf,2018
+Rocourt,Jura,Incorporated into Haute-Ajoie,Haute-Ajoie,2018
+Saint-Aubin-Sauges,Neuchâtel,"Merged with Bevaix, Fresens, Gorgier, Montalchez and Vaumarcus",La Grande Béroche,2018
+Corban,Jura,Incorporated into Val Terbi,Val Terbi,2018
+Scherz,Aargau,Incorporated into Lupfig,Lupfig,2018
+Schlosswil,Bern,Incorporated into Grosshöchstetten,Grosshöchstetten,2018
+Golaten,Bern,Incorporated into Kallnach,Kallnach,2019
+Schönenberg,Zürich,Incorporated into Wädenswil,Wädenswil,2019
+Waltalingen,Zürich,Merged with Oberstammheim and Unterstammheim,Stammheim,2019
+Attelwil,Aargau,Incorporated into Reitnau,Reitnau,2019
+Hinterrhein,Grisons,Merged with Nufenen and Splügen,Rheinwald,2019
+Oberstammheim,Zürich,Merged with Unterstammheim and Waltalingen,Stammheim,2019
+Rebeuvelier,Jura,Incorporated into Courrendlin,Courrendlin,2019
+Unterstammheim,Zürich,Merged with Oberstammheim and Waltalingen,Stammheim,2019
+Splügen,Grisons,Merged with Hinterrhein and Nufenen,Rheinwald,2019
+Nufenen,Grisons,Merged with Hinterrhein and Splügen,Rheinwald,2019
+Hütten,Zürich,Incorporated into Wädenswil,Wädenswil,2019
+Vellerat,Jura,Incorporated into Courrendlin,Courrendlin,2019
+Corserey,Fribourg,Merged with Noréaz and Prez-vers-Noréaz,Prez,2020
+Cugnasco-Gerra (Gerra Valle),Ticino,"Merged with Brione, Corippo, Frasco, Lavertezzo (Lavertezzo Valle), Sonogno and Vogorno",Verzasca,2020
+Mühlethurnen,Bern,Merged with Kirchenthurnen and Lohnstorf,Thurnen,2020
+Lavertezzo (Lavertezzo Valle),Ticino,"Merged with Brione, Corippo, Cugnasco-Gerra (Gerra Valle), Frasco, Sonogno and Vogorno",Verzasca,2020
+Noréaz,Fribourg,Merged with Corserey and Prez-vers-Noréaz,Prez,2020
+Vogorno,Ticino,"Merged with Brione, Corippo, Cugnasco-Gerra (Gerra Valle), Frasco, Lavertezzo (Lavertezzo Valle) and Sonogno",Verzasca,2020
+Kirchenthurnen,Bern,Merged with Lohnstorf and Mühlethurnen,Thurnen,2020
+Wolfisberg,Bern,Incorporated into Niederbipp,Niederbipp,2020
+Schinznach-Bad,Aargau,Incorporated into Brugg,Brugg,2020
+Lohnstorf,Bern,Merged with Kirchenthurnen and Mühlethurnen,Thurnen,2020
+Villaz-Saint-Pierre,Fribourg,Merged with La Folliaz,Villaz,2020
+Prez-vers-Noréaz,Fribourg,Merged with Corserey and Noréaz,Prez,2020
+Schwendibach,Bern,Incorporated into Steffisburg,Steffisburg,2020
+Corippo,Ticino,"Merged with Brione, Cugnasco-Gerra (Gerra Valle), Frasco, Lavertezzo (Lavertezzo Valle), Sonogno and Vogorno",Verzasca,2020
+Ebersecken,Lucerne,Incorporated into Altishofen,Altishofen,2020
+Frasco,Ticino,"Merged with Brione, Corippo, Cugnasco-Gerra (Gerra Valle), Lavertezzo (Lavertezzo Valle), Sonogno and Vogorno",Verzasca,2020
+Sonogno,Ticino,"Merged with Brione, Corippo, Cugnasco-Gerra (Gerra Valle), Frasco, Lavertezzo (Lavertezzo Valle) and Vogorno",Verzasca,2020
+Maladers,Grisons,Incorporated into Chur,Chur,2020
+Brione,Ticino,"Merged with Corippo, Cugnasco-Gerra (Gerra Valle), Frasco, Lavertezzo (Lavertezzo Valle), Sonogno and Vogorno",Verzasca,2020
+La Folliaz,Fribourg,Merged with Villaz-Saint-Pierre,Villaz,2020
+Bauen,Uri,Incorporated into Seedorf,Seedorf,2021
+Corcelles-Cormondrèche,Neuchâtel,Incorporated into Neuchâtel,Neuchâtel,2021
+Vollèges,Valais,Merged with Bagnes,Val de Bagnes,2021
+Welschenrohr,Solothurn,Merged with Gänsbrunnen,Welschenrohr-Gänsbrunnen,2021
+Mathon,Grisons,"Merged with Casti-Wergenstein, Donat and Lohn",Muntogna da Schons,2021
+Miège,Valais,Merged with Venthône and Veyras,Noble-Contrée,2021
+Charrat,Valais,Incorporated into Martigny,Martigny,2021
+Cheiry,Fribourg,Incorporated into Surpierre,Surpierre,2021
+St. Antoni,Fribourg,Incorporated into Tafers,Tafers,2021
+Alterswil,Fribourg,Incorporated into Tafers,Tafers,2021
+Altwis,Lucerne,Incorporated into Hitzkirch,Hitzkirch,2021
+Monteggio,Ticino,"Merged with Croglio, Ponte Tresa and Sessa",Tresa,2021
+Bussy-Chardonney,Vaud,"Merged with Apples, Cottens, Pampigny, Reverolle and Sévery",Hautemorges,2021
+Apples,Vaud,"Merged with Bussy-Chardonney, Cottens, Pampigny, Reverolle and Sévery",Hautemorges,2021
+Montherod,Vaud,Incorporated into Aubonne,Aubonne,2021
+Lohn,Grisons,"Merged with Casti-Wergenstein, Donat and Mathon",Muntogna da Schons,2021
+Sévery,Vaud,"Merged with Apples, Bussy-Chardonney, Cottens, Pampigny and Reverolle",Hautemorges,2021
+Sessa,Ticino,"Merged with Croglio, Monteggio and Ponte Tresa",Tresa,2021
+Mötschwil,Bern,Incorporated into Hindelbank,Hindelbank,2021
+Les Brenets,Neuchâtel,Incorporated into Le Locle,Le Locle,2021
+Senèdes,Fribourg,Merged with Arconciel and Épendes,Bois-d'Amont,2021
+Bagnes,Valais,Merged with Vollèges,Val de Bagnes,2021
+Arconciel,Fribourg,Merged with Épendes and Senèdes,Bois-d'Amont,2021
+Cottens,Vaud,"Merged with Apples, Bussy-Chardonney, Pampigny, Reverolle and Sévery",Hautemorges,2021
+Gettnau,Lucerne,Incorporated into Willisau,Willisau,2021
+Gänsbrunnen,Solothurn,Merged with Welschenrohr,Welschenrohr-Gänsbrunnen,2021
+Bioley-Orjulaz,Vaud,Incorporated into Assens,Assens,2021
+Peseux,Neuchâtel,Incorporated into Neuchâtel,Neuchâtel,2021
+Rümligen,Bern,Incorporated into Riggisberg,Riggisberg,2021
+Pampigny,Vaud,"Merged with Apples, Bussy-Chardonney, Cottens, Reverolle and Sévery",Hautemorges,2021
+Reverolle,Vaud,"Merged with Apples, Bussy-Chardonney, Cottens, Pampigny and Sévery",Hautemorges,2021
+Croglio,Ticino,"Merged with Monteggio, Ponte Tresa and Sessa",Tresa,2021
+Haldenstein,Grisons,Incorporated into Chur,Chur,2021
+Valangin,Neuchâtel,Incorporated into Neuchâtel,Neuchâtel,2021
+Venthône,Valais,Merged with Miège and Veyras,Noble-Contrée,2021
+Donat,Grisons,"Merged with Casti-Wergenstein, Lohn and Mathon",Muntogna da Schons,2021
+Casti-Wergenstein,Grisons,"Merged with Donat, Lohn and Mathon",Muntogna da Schons,2021
+Obersteckholz,Bern,Incorporated into Langenthal,Langenthal,2021
+Veyras,Valais,Merged with Miège and Venthône,Noble-Contrée,2021
+Épendes,Fribourg,Merged with Arconciel and Senèdes,Bois-d'Amont,2021
+Rohr,Solothurn,Incorporated into Stüsslingen,Stüsslingen,2021
+Ponte Tresa,Ticino,"Merged with Croglio, Monteggio and Sessa",Tresa,2021
+Clavaleyres,Fribourg,Incorporated into Murten,Murten,2022
+Wislikofen,Aargau,"Merged with Bad Zurzach, Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rietheim and Rümikon",Zurzach,2022
+Blonay,Vaud,Merged with Saint-Légier-La Chiésaz,Blonay - Saint-Légier,2022
+Rekingen,Aargau,"Merged with Bad Zurzach, Baldingen, Böbikon, Kaiserstuhl, Rietheim, Rümikon and Wislikofen",Zurzach,2022
+Galmiz,Fribourg,Incorporated into Murten,Murten,2022
+Rovio,Ticino,Merged with Maroggia and Melano,Val Mara,2022
+Rietheim,Aargau,"Merged with Bad Zurzach, Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rümikon and Wislikofen",Zurzach,2022
+Elfingen,Aargau,"Merged with Bözen, Effingen and Hornussen",Böztal,2022
+Essertes,Vaud,Incorporated into Oron,Oron,2022
+Maroggia,Ticino,Merged with Melano and Rovio,Val Mara,2022
+Rümikon,Aargau,"Merged with Bad Zurzach, Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rietheim and Wislikofen",Zurzach,2022
+Effingen,Aargau,"Merged with Bözen, Elfingen and Hornussen",Böztal,2022
+Bözen,Aargau,"Merged with Effingen, Elfingen and Hornussen",Böztal,2022
+Gempenach,Fribourg,Incorporated into Murten,Murten,2022
+Hornussen,Aargau,"Merged with Bözen, Effingen and Elfingen",Böztal,2022
+Rüte,Appenzell Innerrhoden,Merged with Schwende,Schwende-Rüte,2022
+Baldingen,Aargau,"Merged with Bad Zurzach, Böbikon, Kaiserstuhl, Rekingen, Rietheim, Rümikon and Wislikofen",Zurzach,2022
+Saint-Légier-La Chiésaz,Vaud,Merged with Blonay,Blonay - Saint-Légier,2022
+Schwende,Appenzell Innerrhoden,Merged with Rüte,Schwende-Rüte,2022
+Melano,Ticino,Merged with Maroggia and Rovio,Val Mara,2022
+Kaiserstuhl,Aargau,"Merged with Bad Zurzach, Baldingen, Böbikon, Rekingen, Rietheim, Rümikon and Wislikofen",Zurzach,2022
+Böbikon,Aargau,"Merged with Bad Zurzach, Baldingen, Kaiserstuhl, Rekingen, Rietheim, Rümikon and Wislikofen",Zurzach,2022
+Bad Zurzach,Aargau,"Merged with Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rietheim, Rümikon and Wislikofen",Zurzach,2022
+Diemerswil,Bern,Incorporated into Münchenbuchsee,Münchenbuchsee,2023
+Damphreux,Jura,Merged with Lugnez,Damphreux-Lugnez,2023
+Lugnez,Jura,Merged with Damphreux,Damphreux-Lugnez,2023
+Hemberg,St. Gallen,Incorporated into Neckertal,Neckertal,2023
+Burg,Aargau,Incorporated into Menziken,Menziken,2023
+Herznach,Aargau,Merged with Ueken,Herznach-Ueken,2023
+Ueken,Aargau,Merged with Herznach,Herznach-Ueken,2023
+La Chaux-des-Breuleux,Jura,Incorporated into Les Breuleux,Les Breuleux,2023
+Humlikon,Zürich,Incorporated into Andelfingen,Andelfingen,2023
+Adlikon bei Andelfingen,Zürich,Incorporated into Andelfingen,Andelfingen,2023
+Oberhelfenschwil,St. Gallen,Incorporated into Neckertal,Neckertal,2023
