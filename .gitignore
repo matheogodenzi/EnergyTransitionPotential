@@ -3,11 +3,12 @@ data/
 raw_data/
 processed_data/
 
-# Ignore Excel files
+# Ignore data documents
 *.xlsx
-
-# Ignore CSV files
 *.csv
+*.txt
+*.px
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
