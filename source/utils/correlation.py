@@ -35,8 +35,8 @@ def calc_and_plot_cor_mat(df, linear=1, corr_threshold=0.2):
     print("Correlation matrix shape:", corr_mat.shape)
 
     # Plot the correlation matrix using seaborn
-    plt.figure(figsize=(8, 6))
+    """plt.figure(figsize=(8, 6))
     sns.heatmap(corr_mat, annot=True, cmap="coolwarm", vmin=-1, vmax=1)
     plt.title("Correlation of covariates vs achieved recommended potential - Type 7")
-    plt.show()
+    plt.show()"""
     return corr_mat, interesting_correlations
