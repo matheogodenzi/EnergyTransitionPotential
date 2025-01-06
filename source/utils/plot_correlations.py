@@ -28,7 +28,7 @@ def plot_main_corr(cor_df, type="Overall"):
     plt.title(f"Relevant correlations - {type}", size=15)
 
     # Move the legend below the plot
-    plt.legend(title="Covariates", title_fontsize=14, loc="upper center", bbox_to_anchor=(0.5, -0.05), ncol=2, fontsize=12)  # Adjust legend position and number of columns
+    plt.legend(title="Covariates", title_fontsize=14, loc="upper center", bbox_to_anchor=(0.5, -0.05), ncol=1, fontsize=12)  # Adjust legend position and number of columns
 
     # Show the plot with adjusted layout
     #plt.tight_layout()  # Adjust layout to avoid overlap
